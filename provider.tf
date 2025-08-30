@@ -7,8 +7,3 @@ terraform {
         }
     }
 }
-
-resource "aws_instance" "app-vm" {
-    ami = ""
-    instance_type = "t2.micro"
-}
