@@ -1,0 +1,16 @@
+{
+    "name": "Dinesh Shinde",
+    "age": 30,
+    "skills": ["Terraform", "AWS", "Ansible"],
+    "active": true,
+    "projects": [
+      {
+        "name": "Project X",
+        "status": false
+      },
+      {
+        "name": "Project Y",
+        "completed": true
+      }
+    ]
+  }
